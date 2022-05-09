@@ -16,12 +16,12 @@ namespace dotnet7
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Title;
-
-
-
-        public DateTime DOJ { get; set; }
+         public DateTime DOJ { get; set; }
         public DateTime DOB { get; set; }
         string City { get; set; }
+
+
+       
 
         public override string ToString()
         {
