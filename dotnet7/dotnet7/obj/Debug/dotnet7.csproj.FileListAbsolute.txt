@@ -1,0 +1,8 @@
+C:\c#.net\c#\dotnetassignment7\dotnet7\dotnet7\bin\Debug\dotnet7.exe.config
+C:\c#.net\c#\dotnetassignment7\dotnet7\dotnet7\bin\Debug\dotnet7.exe
+C:\c#.net\c#\dotnetassignment7\dotnet7\dotnet7\bin\Debug\dotnet7.pdb
+C:\c#.net\c#\dotnetassignment7\dotnet7\dotnet7\obj\Debug\dotnet7.csproj.AssemblyReference.cache
+C:\c#.net\c#\dotnetassignment7\dotnet7\dotnet7\obj\Debug\dotnet7.csproj.SuggestedBindingRedirects.cache
+C:\c#.net\c#\dotnetassignment7\dotnet7\dotnet7\obj\Debug\dotnet7.csproj.CoreCompileInputs.cache
+C:\c#.net\c#\dotnetassignment7\dotnet7\dotnet7\obj\Debug\dotnet7.exe
+C:\c#.net\c#\dotnetassignment7\dotnet7\dotnet7\obj\Debug\dotnet7.pdb

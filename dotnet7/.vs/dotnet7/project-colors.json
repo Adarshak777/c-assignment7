@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34d28858-266c-4f37-ae1c-8224cd44b64d": {
+      "ProjectGuid": "34d28858-266c-4f37-ae1c-8224cd44b64d",
+      "DisplayName": "dotnet7",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
